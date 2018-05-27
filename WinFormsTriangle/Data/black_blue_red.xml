@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfTriangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Triangle>
+    <Points>
+      <Point>
+        <X>42</X>
+        <Y>41</Y>
+      </Point>
+      <Point>
+        <X>145</X>
+        <Y>39</Y>
+      </Point>
+      <Point>
+        <X>103</X>
+        <Y>134</Y>
+      </Point>
+    </Points>
+    <Color />
+    <XmlColor>-16777216</XmlColor>
+  </Triangle>
+  <Triangle>
+    <Points>
+      <Point>
+        <X>233</X>
+        <Y>67</Y>
+      </Point>
+      <Point>
+        <X>307</X>
+        <Y>54</Y>
+      </Point>
+      <Point>
+        <X>303</X>
+        <Y>143</Y>
+      </Point>
+    </Points>
+    <Color />
+    <XmlColor>-16744256</XmlColor>
+  </Triangle>
+  <Triangle>
+    <Points>
+      <Point>
+        <X>173</X>
+        <Y>166</Y>
+      </Point>
+      <Point>
+        <X>233</X>
+        <Y>152</Y>
+      </Point>
+      <Point>
+        <X>230</X>
+        <Y>224</Y>
+      </Point>
+    </Points>
+    <Color />
+    <XmlColor>-65536</XmlColor>
+  </Triangle>
+</ArrayOfTriangle>
